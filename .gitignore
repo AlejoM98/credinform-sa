@@ -13,3 +13,5 @@ assets/ajax/migracion_passwords.php
 # Sistema operativo
 .DS_Store
 Thumbs.db
+starter-kit/
+session.php
