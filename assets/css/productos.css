@@ -1,0 +1,9 @@
+.add-new-product .card-header,
+.add-new-product .card-body {
+  transition: 0.3s;
+}
+
+.add-new-product:hover .card-header,
+.add-new-product:hover .card-body {
+  background-color: #282d3a7e;
+}

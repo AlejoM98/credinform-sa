@@ -1,0 +1,15 @@
+# Credenciales — NUNCA subir a Git
+.env
+assets/ajax/conexion.php
+assets/ajax/migracion_passwords.php
+
+# Logs y temporales
+*.log
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
